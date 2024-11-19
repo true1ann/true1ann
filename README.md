@@ -1,6 +1,30 @@
-hello there  !<br>
+<div id="main">
+  <h1>Hello there!</h1>
+  She / Her • MtF train<br>
+  My mainline stuff I use & make goes here, usually. Soon more projects will be here.<br>
+  
+  Other info, contacts, statuses, and more are on my [website](https://ann.maxy.top).<br>
+  (Or view the [outdated one](https://ann.is-a.dev/old-index.html))
+</div>
 
-She / Her | MtF train<br>
-My mainline stuff I use & make goes to here, usually. Soon more things will be bring over to here.<br>
+<br>
 
-Other infos; my contacts; Statuses and etc are on my [website](https://ann.maxy.top) (Or view [outdated one](https://ann.is-a.dev/old-index.html))
+<div id="stats">
+  <h1>Stats</h1>
+  <a href="https://github.com/true1ann">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=true1ann&layout=compact&theme=react" alt="Top Languages">
+  </a><br>
+  <a href="https://github.com/true1ann">
+    <img src="https://github-readme-stats.vercel.app/api?username=true1ann&theme=react" alt="GitHub Stats">
+  </a>
+</div>
+
+<br>
+
+<div id="misc">
+  <h1>Misc</h1>
+
+  Get hotlinks, assets, themes, and NC plugins at the [OpenData repository](https://github.com/true1ann/opendata).<br>
+  <small>More stuff coming soon.</small>
+</div>
+
