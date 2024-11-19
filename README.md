@@ -11,7 +11,7 @@
   She / Her • MtF train<br>
   My mainline stuff I use & make goes here, usually. Soon more projects will be here.<br>
   
-  Other info, contacts, statuses, and more are on my [website](https://ann.maxy.top).<br>
+  Other info; contacts; statuses; and more are on my [website](https://ann.maxy.top).<br>
   (Or view the [outdated one](https://ann.is-a.dev/old-index.html))
 </div>
 
@@ -32,7 +32,8 @@
 <div id="misc">
   <h1>Misc</h1>
 
-  Get hotlinks, assets, themes, and NC plugins at the [OpenData repository](https://github.com/true1ann/opendata).<br>
-  <small>More stuff coming soon.</small>
+  - Hotlinks; assets; themes; and NC plugins at the [OpenData repository](https://github.com/true1ann/opendata).<br>
+  
+  <br><small>More stuff coming soon.</small>
 </div>
 
