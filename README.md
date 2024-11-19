@@ -1,3 +1,11 @@
+<div id="otherlangs">
+  <h1>Other languages</h1>
+  
+  [Русский](README.ru.md)
+</div>
+
+<br>
+
 <div id="main">
   <h1>Hello there!</h1>
   She / Her • MtF train<br>
