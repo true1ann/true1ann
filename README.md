@@ -9,7 +9,7 @@
 <div id="main">
   <h1>Hello there!</h1>
   She / Her • MtF train<br>
-  My mainline stuff I use & make goes here, usually. Soon more projects will be here.<br>
+  My mainline stuff I use & make goes here, usually. Soon more projects will be here.<br><br>
   
   Other info; contacts; statuses; and more are on my [website](https://ann.maxy.top).<br>
   (Or view the [outdated one](https://ann.is-a.dev/old-index.html))
