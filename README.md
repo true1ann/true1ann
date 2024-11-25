@@ -6,6 +6,8 @@
 
 <br>
 
+<img src="banner/en_US.png">
+
 <div id="main">
   <h1>Hello there!</h1>
   She / Her • MtF train<br>
