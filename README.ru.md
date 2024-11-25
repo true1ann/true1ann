@@ -1,3 +1,5 @@
+<img src="banner/ru_RU.png">
+
 <div id="main">
   <h1>Здарова!</h1>
   Она • Транс<br>
