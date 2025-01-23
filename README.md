@@ -22,10 +22,10 @@
 <div id="stats">
   <h1>Stats</h1>
   <a href="https://github.com/true1ann">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=true1ann&layout=compact&theme=react" alt="Top Languages">
+    <img src="https://api.ann.maxy.top/github-readme-stats/top-langs/?username=true1ann&layout=compact&theme=react" alt="Top Languages">
   </a><br>
   <a href="https://github.com/true1ann">
-    <img src="https://github-readme-stats.vercel.app/api?username=true1ann&theme=react" alt="GitHub Stats">
+    <img src="https://api.ann.maxy.top/github-readme-stats/?username=true1ann&theme=react" alt="GitHub Stats">
   </a>
 </div>
 
