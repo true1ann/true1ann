@@ -14,10 +14,10 @@
 <div id="stats">
   <h1>Статистика</h1>
   <a href="https://github.com/true1ann">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=true1ann&layout=compact&theme=react" alt="Топ языков">
+    <img src="https://api.ann.maxy.top/github-readme-stats/top-langs/?username=true1ann&layout=compact&theme=react" alt="Топ языков">
   </a><br>
   <a href="https://github.com/true1ann">
-    <img src="https://github-readme-stats.vercel.app/api?username=true1ann&theme=react" alt="Статистика GitHub">
+    <img src="https://api.ann.maxy.top/github-readme-stats/?username=true1ann&theme=react" alt="Статистика GitHub">
   </a>
 </div>
 
