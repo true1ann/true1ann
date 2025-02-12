@@ -13,7 +13,7 @@
   She / Her • MtF train<br>
   My mainline stuff I use & make goes here, usually. Soon more projects will be here.<br><br>
   
-  Other info; contacts; statuses; and more are on my [website](https://ann.maxy.top).<br>
+  Other info; contacts; statuses; and more are on my [website](https://ann.is-a.dev).<br>
   (Or view the [outdated one](https://ann.is-a.dev/old-index.html))
 </div>
 
