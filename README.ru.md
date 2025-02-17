@@ -1,32 +1,25 @@
-<img src="banner/ru_RU.png">
+## Другие языки
+[English](README.md)
 
-<div id="main">
-  <h1>Здарова!</h1>
-  Она • Транс<br>
-  Мэйнлайн проекты, которые я делаю, обычно находятся здесь. Скоро добавлю сюда больше проектов.<br><br>
-  
-  Полная информация; контакты; статусы и многое другое хранятся на моем [вебсайте](https://ann.is-a.dev).<br>
-  (Или можете посетить [устаревшую версию](https://ann.is-a.dev/old-index.html))
-</div>
+![Баннер](banner/ru_RU.png)
 
-<br>
+## Здарова!
+Она • Транс  
+Мои основные проекты и инструменты *обычно* находятся здесь. Я не стою на месте так что будут новые.  
 
-<div id="stats">
-  <h1>Статистика</h1>
-  <a href="https://github.com/true1ann">
-    <img src="https://api.ann.maxy.top/github-readme-stats/top-langs/?username=true1ann&layout=compact&theme=react" alt="Топ языков">
-  </a><br>
-  <a href="https://github.com/true1ann">
-    <img src="https://api.ann.maxy.top/github-readme-stats/?username=true1ann&theme=react" alt="Статистика GitHub">
-  </a>
-</div>
+Другая информация, контакты, статусы и другая чушь на [моем сайте](https://ann.is-a.dev).  
+<small>(еще есть [устаревшая версия](https://ann.is-a.dev/old-index.html) с GitHub Pages, фронтенд переедет на GitHub Pages скоро)</small>
 
-<br>
+## Разница между моими `git`ами
+- **GitHub**: Мои публичные проекты, готовые для всех  
+- **[git.tann](https://git.true1ann.me)**: Беты моих проектов  
+- **[gitea.ann](https://gitea.ann.maxy.top)**: Скоро станет устаревшим источником, используеться как и git.tann  
 
-<div id="misc">
-  <h1>Еще</h1>
+## Статистика
+[![Топ языков](https://api.ann.maxy.top/github-readme-stats/top-langs/?username=true1ann&layout=compact&theme=react)](https://github.com/true1ann)  
+[![GitHub статистика](https://api.ann.maxy.top/github-readme-stats/?username=true1ann&theme=react)](https://github.com/true1ann)  
 
-  - Хотлинки; ассеты; темы и плагины для NC находятся в [репозитории OpenData](https://github.com/true1ann/opendata).<br>
-  
-  <br><small>Больше будет потом</small>
-</div>
+## Разное
+- Хотлинки, ассеты, темы и другие вещи в [OpenData](https://github.com/true1ann/opendata) репо.  
+
+<br><small>Скоро будет больше.</small>
