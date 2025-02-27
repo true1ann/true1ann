@@ -1,7 +1,7 @@
 ## Other languages
 [Русский](README.ru.md)
 
-![Banner](banner/en_US.png)
+![Banner](banner/v2/all_ALL.png)
 
 ## Hello there!
 She / Her • MtF train  

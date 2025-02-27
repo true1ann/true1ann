@@ -1,7 +1,7 @@
 ## Другие языки
 [English](README.md)
 
-![Баннер](banner/ru_RU.png)
+![Banner](banner/v2/all_ALL.png)
 
 ## Здарова!
 Она • Транс  
