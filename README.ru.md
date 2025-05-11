@@ -10,10 +10,9 @@
 Другая информация, контакты, статусы и другая чушь на [моем сайте](https://ann.is-a.dev).  
 <small>(еще есть [устаревшая версия](https://ann.is-a.dev/old-index.html) с GitHub Pages, фронтенд переедет на GitHub Pages скоро)</small>
 
-## Разница между моими `git`ами
+## Разница между `git`ами
 - **GitHub**: Мои публичные проекты, готовые для всех  
 - **[git.tann](https://git.true1ann.me)**: Беты моих проектов  
-- **[gitea.ann](https://gitea.ann.maxy.top)**: Скоро станет устаревшим источником, используеться как и git.tann  
 
 ## Статистика
 [![Топ языков](https://api.ann.maxy.top/github-readme-stats/top-langs/?username=true1ann&layout=compact&theme=react)](https://github.com/true1ann)  
