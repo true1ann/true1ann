@@ -13,7 +13,6 @@ Other info, contacts, statuses, and more things are on my [website](https://ann.
 ## Difference between `git`s
 - **GitHub**: My public projects, ready to use for anyone  
 - **[git.tann](https://git.true1ann.me)**: Betas of my projects  
-- **[gitea.ann](https://gitea.ann.maxy.top)**: Soon is going to be outdated, same usage as git.tann  
 
 ## Stats
 [![Top Languages](https://api.ann.maxy.top/github-readme-stats/top-langs/?username=true1ann&layout=compact&theme=react)](https://github.com/true1ann)  
